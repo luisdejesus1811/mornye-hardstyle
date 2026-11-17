@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "extensions": [
+    {
+      "id": "hardstyle-com-provider",
+      "name": "hardstyle-com-provider",
+      "displayName": "Hardstyle.com (Extended & Albums)",
+      "version": "1.1.0",
+      "description": "Extrae álbumes completos y Extended Mixes desde Hardstyle.com",
+      "author": "luisdejesus1811",
+      "type": ["metadata_provider"],
+      "downloadUrl": "https://githubusercontent.com"
+    }
+  ]
+}
